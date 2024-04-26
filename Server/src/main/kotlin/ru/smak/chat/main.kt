@@ -1,5 +1,6 @@
 package ru.smak.chat
 
+import ru.smak.chat.net.ConnectedClient
 import ru.smak.chat.net.Server
 
 fun main() {

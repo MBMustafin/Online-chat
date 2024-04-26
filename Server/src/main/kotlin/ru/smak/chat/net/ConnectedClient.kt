@@ -21,6 +21,11 @@ class ConnectedClient(socket: Socket) {
 
     init{
         clients.add(this)
+
+        clients.forEach{
+            println(it.name)
+        }
+
         communicator.addOnStopListener {
             clients.remove(this)
         }

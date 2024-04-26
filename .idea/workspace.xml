@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e400de73-d884-464f-982f-87bf746b1b14" name="Changes" comment="От 08.04">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/src/main/kotlin/ru/smak/chat/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Client/src/main/kotlin/ru/smak/chat/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/src/main/kotlin/ru/smak/chat/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Server/src/main/kotlin/ru/smak/chat/main.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Server/src/main/kotlin/ru/smak/chat/net/ConnectedClient.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Server/src/main/kotlin/ru/smak/chat/net/ConnectedClient.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
